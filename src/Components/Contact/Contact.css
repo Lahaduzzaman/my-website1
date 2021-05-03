@@ -20,12 +20,12 @@
   border-radius: 100%;
   font-size: 1.8rem;
   margin-right: 1.5rem;
-  border: 1px solid #e91e65;
+  border: 1px solid #34a853;
 }
 
 .social-icon-style:hover {
   color: #fff;
-  background-color: #e91e65;
+  background-color: #34a853;
 }
 
 .pl {

@@ -16,7 +16,7 @@ const About = () => {
               <img className="img-style mr-4" src={lahad} alt="" />
             </div>
             <div className="col-md-5 col-sm-12 d-flex align-items-center">
-              <p className="text-justify "><b> Passionate Web Developer.</b> Always try to grab the new features of technology.Self-motivated IT professional with deep knowledge and proficiency in mobile responsive website development.Acquired to maintain strong interpersonal relationships with teammates.I am passionate about providing care to my work,which keeps me motivated and excited about doing my best work.</p>
+              <p className="text-justify "><b> Passionate Web Developer.</b> Always try to grab the new features of technology.Self-motivated IT professional with deep knowledge and proficiency in mobile responsive website development.Acquired to maintain strong interpersonal relationships with teammates. I am passionate about providing care to my work,which keeps me motivated and excited about doing my best work.</p>
             </div>
           </div>
 

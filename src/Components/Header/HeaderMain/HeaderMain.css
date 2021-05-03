@@ -13,11 +13,11 @@
 }
 
 .btn-outline-danger {
-  border-color: #e91e65;
+  border-color: #ff4040;
 }
 
 .btn-outline-danger:hover {
-  background-color: #e91e65;
+  background-color: #ff4040;
 }
 .example {
   position: absolute !important;
