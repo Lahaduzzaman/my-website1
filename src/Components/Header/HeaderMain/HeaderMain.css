@@ -1,0 +1,28 @@
+.header-bg {
+  background-image: linear-gradient(45deg, transparent 0%, #10101069 0%), url('../../../images/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
+.header-section {
+  position: absolute;
+  color: white;
+  top: 300px;
+  text-align: center;
+}
+
+.btn-outline-danger {
+  border-color: #e91e65;
+}
+
+.btn-outline-danger:hover {
+  background-color: #e91e65;
+}
+.example {
+  position: absolute !important;
+}
+
+.caca {
+  font-size: 40px;
+}

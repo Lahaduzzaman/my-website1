@@ -1,0 +1,33 @@
+.contact-container {
+  background-color: #252424;
+}
+
+.contact-style {
+  border: 1px solid #1e54e9;
+}
+
+.contact-info {
+  font-size: 20px;
+}
+
+.social-icon-style {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.8rem;
+  width: 3.8rem;
+  color: #343a40;
+  border-radius: 100%;
+  font-size: 1.8rem;
+  margin-right: 1.5rem;
+  border: 1px solid #e91e65;
+}
+
+.social-icon-style:hover {
+  color: #fff;
+  background-color: #e91e65;
+}
+
+.pl {
+  padding-left: 2rem;
+}

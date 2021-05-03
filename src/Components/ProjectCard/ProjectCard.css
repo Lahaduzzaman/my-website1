@@ -1,0 +1,20 @@
+.service-container:hover {
+  text-decoration: none;
+}
+
+.serviceCard {
+  transition: .3s all ease-in;
+  transform: scale(.9);
+}
+.serviceCard:hover {
+  transform: scale(1);
+}
+
+.card{
+  height: 490px;
+}
+
+.icon-style {
+  font-size: 25px;
+}
+
