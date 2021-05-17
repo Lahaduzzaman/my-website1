@@ -74,7 +74,7 @@ const Contact = () => {
                   <a className=" social-icon-style" href="https://twitter.com/_lahad_" target="/_blank"><FontAwesomeIcon icon={faTwitter} /></a>
                 </li>
                 <li>
-                  <a className=" social-icon-style" href="https://medium.com/@criclahad.2" target="/_blank"><FontAwesomeIcon icon={faMedium} /></a>
+                  <a className=" social-icon-style" href="	https://medium.com/@lahaduzzaman" target="/_blank"><FontAwesomeIcon icon={faMedium} /></a>
                 </li>
               </ul>
             </div>

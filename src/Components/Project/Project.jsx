@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import ProjectData from '../data/ProjectData/ProjectData'
 import ProjectCard from '../ProjectCard/ProjectCard';
 
+
 const Project = () => {
   const [project] = useState(ProjectData)
 

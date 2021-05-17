@@ -7,18 +7,18 @@
 }
 
 .contact-info {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .social-icon-style {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 3.8rem;
-  width: 3.8rem;
+  height: 3.5rem;
+  width: 3.5rem;
   color: #343a40;
   border-radius: 100%;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   margin-right: 1.5rem;
   border: 1px solid #34a853;
 }
@@ -29,5 +29,5 @@
 }
 
 .pl {
-  padding-left: 2rem;
+  padding-left: 3rem;
 }

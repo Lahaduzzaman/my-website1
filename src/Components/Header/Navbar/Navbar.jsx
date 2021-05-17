@@ -3,7 +3,7 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <nav className="navbar bg-white navbar-expand-lg navbar-light sticky-top  shadow-lg">
+    <nav className="navbar bg-white navbar-expand-lg navbar-light sticky-top shadow-lg">
       <a className="navbar-brand px-2" href="#home">
         <h3 className="font-weight-bold text-color">Lahaduzzaman Lahad</h3>
       </a>
