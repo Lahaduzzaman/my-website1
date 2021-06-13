@@ -22,9 +22,9 @@ const Navbar = () => {
           <li className="nav-item">
             <a className="nav-link mr-3 font-weight-bold text-mute" href="#project">PROJECT</a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a className="nav-link mr-3 font-weight-bold text-mute" href="#blog">BLOG</a>
-          </li>
+          </li> */}
           <li className="nav-item">
             <a className="nav-link mr-3 font-weight-bold text-mute" href="#contact">CONTACT</a>
           </li>

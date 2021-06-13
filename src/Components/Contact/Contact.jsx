@@ -23,7 +23,10 @@ const Contact = () => {
   return (
     <div id="contact" className="">
       <h1 className='text-center font-weight-bold'>CONTACT ME</h1>
-      <h5 className='text-center text-color font-weight-bold'>Have a question or want to work together? I'd really love to hear from your feedback.</h5>
+      <div className="text">
+        <h5 className='text-center'>Have a question or want to work together? I'd really love to hear from your feedback.</h5>
+      </div>
+      {/* <h5 className='text-center text-color'>Have a question or want to work together? I'd really love to hear from your feedback.</h5> */}
       <div className="container-fluid">
         <div className="row p-3 my-5 d-flex justify-content-between">
           <div className="col-md-6 col-sm-12 shadow-lg p-5 contact-style">
